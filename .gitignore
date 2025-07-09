@@ -1,0 +1,17 @@
+# Ignore all node_modules recursively
+**/node_modules/
+
+# Ignore environment variables
+**/.env
+
+# Ignore build outputs
+**/dist/
+**/build/
+
+# Ignore logs
+*.log
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+.DS_Store
